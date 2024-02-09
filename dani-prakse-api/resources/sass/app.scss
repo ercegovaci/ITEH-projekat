@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.welcome-header {
+    font-size: 4rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #fff;
+}
