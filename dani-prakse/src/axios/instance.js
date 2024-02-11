@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-    baseURL: "https://api.ssfon.org/api",
+    baseURL: "https:localhost:8000/",
     timeout: 10000,
 });
 
