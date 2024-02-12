@@ -11,6 +11,7 @@ Projekat je radjen u React-u, pisan u JavaScript-u za klijentsku stranu, dok je 
 
 ## Pokretanje Serverske Strane (Laravel - PHP)
 
+
 1. Instalirajte sve potrebne zavisnosti:
 
 ```bash
